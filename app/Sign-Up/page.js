@@ -1,5 +1,5 @@
 'use client'
-import "/styles/Signup.css";
+import "/styles/signup.css";
 import Link from "next/link";
 
 
