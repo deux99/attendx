@@ -11,7 +11,7 @@ body {
 
 h2 {
     color: #002A68;
-    margin-bottom: 30%;
+    margin-bottom: 3%;
     font-family: Poppins;
     font-size: 48px;
     font-style: normal;
@@ -35,7 +35,7 @@ h2 {
 .btn {
     width: 388px;
     height: 54px;
-    margin-top: 10%;
+    margin-top: 3%;
     color: #FFF;
     border: none;
     font-size: 20px;
